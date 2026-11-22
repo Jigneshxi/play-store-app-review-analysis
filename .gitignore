@@ -1,0 +1,6 @@
+.pytest_cache/
+__pycache__/
+*.pyc
+Demo Projects-*.zip
+googleplaystore_cleaned.csv
+Sample ML Submission Template.ipynb
